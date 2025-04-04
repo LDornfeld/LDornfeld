@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**LDornfeld/LDornfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, nice to meet you! I'm Lars.
 
-Here are some ideas to get you started:
+My interests lie in protein design, structural bioinformatics, and developing deep learning methods for molecular problems. I'm especially excited about integrating computational tools with experimental workflows to push the boundaries of biomolecular design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I am currently a PhD student in the Biomolecular Design group at the Max-Planck-Institute of Biochemistry, advised by Lukas Milles and supported by Karsten Borgwardt
+
+🌱 I'm fascinated by the structure of proteins — how their form encodes function, how they navigate complex energy landscapes, and how deep learning might help us better understand and design them.
+
+💬 Ask me about protein modeling, machine learning in biology, and reproducible research
+
+Find me  
+🔗 [ldornfeld.github.io](https://ldornfeld.github.io) 🦋 [@ldornfeld.bsky.social](https://bsky.app/profile/ldornfeld.bsky.social)
