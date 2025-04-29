@@ -2,7 +2,7 @@
 
 Hi, nice to meet you! I'm Lars.
 
-My interests lie in protein design, structural bioinformatics, and developing deep learning methods for molecular problems. I'm especially excited about integrating computational tools with experimental workflows to push the boundaries of biomolecular design.
+My interests lie in protein design, structural bioinformatics, and developing deep learning methods for molecular problems. I'm especially interested in integrating computational tools with experimental workflows to push the boundaries of biomolecular design.
 
 🔭 I am currently a PhD student in the Biomolecular Design group at the Max-Planck-Institute of Biochemistry, advised by Lukas Milles and supported by Karsten Borgwardt
 
