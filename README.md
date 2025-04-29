@@ -8,7 +8,6 @@ My interests lie in protein design, structural bioinformatics, and developing de
 
 🌱 I'm fascinated by the structure of proteins — how their form encodes function, how they navigate complex energy landscapes, and how deep learning might help us better understand and design them.
 
-💬 Ask me about protein modeling, machine learning in biology, and reproducible research
 
 Find me  
 🔗 [ldornfeld.github.io](https://ldornfeld.github.io) 🦋 [@ldornfeld.bsky.social](https://bsky.app/profile/ldornfeld.bsky.social)
